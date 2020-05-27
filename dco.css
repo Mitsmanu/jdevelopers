@@ -1,0 +1,12 @@
+body {
+    background:url(Imagenes/ctf.jpg);
+     font-family: 'Chelsea Market', cursive;
+}
+
+
+div.infot {
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+}
+

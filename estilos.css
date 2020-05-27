@@ -1,0 +1,109 @@
+body {
+    font-family: 'Chelsea Market', cursive;
+    background: url(Imagenes/fond.jpg);
+    background-position: top;
+    color: ;
+    
+}
+
+.leo {
+    font-size: 30px;
+    width: auto
+        
+}
+
+a {
+    text-decoration: none;
+    color:#FC4E03;
+    font-size: 15px;
+}
+
+nav {
+    background: ;
+     padding: 3px 10px;
+  border:  px solid;
+  border-radius: 0px;
+    height: 
+    
+}
+
+nav ul{
+    padding: 0;
+  
+
+}
+
+nav.nave ul{
+    display: inline-block;
+    
+}
+
+.if {
+     padding: 3px 10px;
+  border:  5px dotted;
+  border-radius: 20px;
+}
+
+a:hover {
+    color: #0F0F0F;
+    font-size: 20px;
+    
+}
+
+ul {
+    margin: 4px;
+}
+
+footer {
+    color: #ED0813;
+    font-size: 16px;
+}
+footer:hover {
+    color: #EE08BC ;
+    font-size:px; 
+}
+
+#ip {
+    position: relative;
+    top: -15px; /* ajustar los valores para mover la imagen */
+    left: 40px;
+    width: 160px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 30%;
+    border:2px solid #fff;
+    display: block;
+}
+
+div {
+    margin: 45px
+}
+
+header {
+    text-align: center;
+    margin: 50px
+}
+
+a.nvd:hover {
+    color:fuchsia;
+    text-decoration-style: wavy
+    
+}
+
+p.enc {
+    color: #FF5733;
+    text-align: center;
+    font-size: 28px;
+    margin: -2px;
+}
+
+div {
+    text-align: center;
+    
+}
+
+footer.a.fto:hover {
+    color:fuchsia;
+    font-size: 18px;
+}
+
