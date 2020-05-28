@@ -51,6 +51,10 @@ footer:hover {
     
 }
 
+footer.fot {
+    text-align: center;
+}
+
 footer {
     color: white
 }

@@ -1,8 +1,8 @@
 body {
     font-family: 'Chelsea Market', cursive;
-    background: url(Imagenes/fond.jpg);
+    background: url(Imagenes/ctf.jpg);
     background-position: top;
-    color: ;
+    color: white;
     
 }
 
@@ -85,7 +85,7 @@ header {
 }
 
 a.nvd:hover {
-    color:fuchsia;
+    color:yellow;
     text-decoration-style: wavy
     
 }
@@ -105,5 +105,11 @@ div {
 footer.a.fto:hover {
     color:fuchsia;
     font-size: 18px;
+}
+
+
+img.jd {
+    border-radius: 25px;
+    margin-left: 90%
 }
 
