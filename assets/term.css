@@ -1,0 +1,65 @@
+body {
+     font-family: 'Chelsea Market', cursive;
+    background:url(../Imagenes/ctf.jpg);
+    background-repeat: repeat;
+    background-position:;
+    
+}
+
+
+#trp {
+    color:yellow;
+    font-size: 35px;
+    text-align: center;
+}
+
+p {
+    color: yellow;
+    text-align: center;
+    padding: 2px;
+    margin: 5px
+}
+
+div.trnm {
+    text-align: left;
+    padding: 29px;
+    margin: 25px
+}
+
+p:hover {
+    
+    color: chartreuse;
+    background-blend-mode: color-burn;
+    
+}
+
+footer.yot {
+    color:aqua;
+    text-align: center
+
+}
+button.po:hover {
+    color: aqua;
+    font-size: 21px
+}
+
+button.po {
+    background: none;
+    color: white;
+    font-size: 19px;
+    border: none;
+}
+
+a.ir {
+    text-align: center;
+}
+
+#we{
+    text-align: center;
+    padding: 0px;
+    color: aqua;
+}
+
+#ou {
+    text-align: left
+}
