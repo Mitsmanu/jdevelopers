@@ -42,6 +42,8 @@ p.ctp {
 div.ctr {
     padding: 0px;
     font-size: 12px;
+    text-align: center;
+    display: block;
 }
 
 
@@ -72,14 +74,16 @@ div.ctr:hover{
 }
 
 .simply-section {
-    background: #A59999;
-    width: 180px;
+    background:none;
+    width: 100px;
     height: 110px;
     margin: 0 20px;
     border-radius: 5px; 
     display: flex;
     align-content: center;
     justify-content: center;
+    display: inline-block;
+    border-radius: 80px;
 }
 .simply-amount {
     display: block;
@@ -117,3 +121,27 @@ fotter:hover {
     font-size: 18px
 }
 
+#isf {
+    font-size: 21px;
+    color:chartreuse;
+}
+
+#ses {
+    color:aqua;
+    font-size: 20px;
+    display: inline-block;
+}
+
+#ses:hover {
+    color: fuchsia;
+    font-size: 25px;
+}
+
+#ses:active {
+    animation-iteration-count: infinite;
+}
+
+#ptl {
+    font-size: 27px;
+    display: block;
+}

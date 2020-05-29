@@ -113,3 +113,12 @@ img.jd {
     margin-left: 90%
 }
 
+#ing {
+    font-size: 18px;
+    display: block;
+    color: yellow;
+}
+
+#ing:hover {
+    color: red;
+}
