@@ -10,3 +10,64 @@ div.infot {
     text-align: center;
 }
 
+div.idf {
+    text-align: center;
+    font-size: 19px;
+    padding: 8PX;
+    margin-left: 11px;
+    margin-right: 11px;
+    color: yellow
+}
+
+#idg {
+    color: #ffff;
+    text-align: center;
+    margin: 38px;
+}
+
+#pot {
+    text-decoration: none;
+    color: wheat;
+}
+
+#pot:hover {
+    font-size: 19px;
+    color: fuchsia;
+}
+
+#idfol {
+    color: aliceblue;
+    text-align: center;
+    font-size: 2pc;
+    display: run-in;
+    margin-left: 36pc;
+    margin-right: 36pc
+}
+
+#idfol:hover {
+    color: red;
+    
+}
+
+#iy {
+    text-decoration: none;
+    color:fuchsia;
+    
+}
+
+footer.fpt {
+    color: white;
+    text-align: center
+}
+
+#iy:hover {
+    font-size: 19px
+}
+
+strong.jh {
+    color: red;
+}
+
+#ivt {
+    color:fuchsia;
+}

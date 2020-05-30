@@ -145,3 +145,21 @@ fotter:hover {
     font-size: 27px;
     display: block;
 }
+
+#ttr {
+    font-size: 19px;
+}
+
+#ttr:hover {
+    color: red;
+    font-size: 20px;
+}
+
+#back {
+    animation-fill-mode: forwards;
+}
+
+#bg {
+    animation-direction: alternate;
+    animation-play-state: running
+}
