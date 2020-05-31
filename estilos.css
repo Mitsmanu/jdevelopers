@@ -6,6 +6,36 @@ body {
     
 }
 
+#barraaceptacion {
+	display:none;
+	position:fixed;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	padding-bottom:20px;
+    border-radius: 90px;
+	text-align:center;
+	min-height:40px;
+	background-color:black;
+	color:#fff;
+    z-index:99999;
+   
+}
+
+.inner {
+	width:center;
+	position:absolute;
+	padding-left:0px;
+	font-family:verdana;
+	font-size:15px;
+    top:0%;
+    margin: 20px;
+    margin-right: 70px;
+}
+
+.inner a.ok {padding:4px;color:#00ff2e;text-decoration:none;}
+.inner a.info {padding-left:5px;text-decoration:none;color:#faff00;}
+
 .leo {
     font-size: 30px;
     width: auto
@@ -19,13 +49,13 @@ a {
 }
 
 nav {
-    background: ;
-     padding: 3px 10px;
-  border:  px solid;
-  border-radius: 0px;
-    height: 
-    
+   
+    padding: 3px 10px;
+    border:  px solid;
+    border-radius: 0px;
 }
+    
+
 
 nav ul{
     padding: 0;

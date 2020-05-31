@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
+<meta charset="UTF-8"><meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../img/icons/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../img/icons/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="../../img/icons/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="../../img/icons/favicon.png">
+
+
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title> JDevelopers</title>
@@ -51,7 +63,55 @@
         
         
         </header>
-        <body>
+        <body> <!--//BLOQUE COOKIES-->
+            <div id="barraaceptacion">
+                <div class="inner">
+                    Solicitamos su permiso para obtener datos estad&iacute;sticos de su navegaci&oacute;n en esta web, en cumplimiento del Real Decreto-ley 13. Si contin&uacute;a navegando consideramos que acepta el uso de cookies.
+                    <a href="javascript:void(0);" class="ok" onclick="PonerCookie();"><b>OK</b></a> | 
+                    <a href="http://politicadecookies.com" target="_blank" class="info">M&aacute;s informaci&oacute;n</a>
+                </div>
+            </div>
+            
+            <script>
+            function getCookie(c_name){
+                var c_value = document.cookie;
+                var c_start = c_value.indexOf(" " + c_name + "=");
+                if (c_start == -1){
+                    c_start = c_value.indexOf(c_name + "=");
+                }
+                if (c_start == -1){
+                    c_value = null;
+                }else{
+                    c_start = c_value.indexOf("=", c_start) + 1;
+                    var c_end = c_value.indexOf(";", c_start);
+                    if (c_end == -1){
+                        c_end = c_value.length;
+                    }
+                    c_value = unescape(c_value.substring(c_start,c_end));
+                }
+                return c_value;
+            }
+            
+            function setCookie(c_name,value,exdays){
+                var exdate=new Date();
+                exdate.setDate(exdate.getDate() + exdays);
+                var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+                document.cookie=c_name + "=" + c_value;
+            }
+            
+            if(getCookie('tiendaaviso')!="1"){
+                document.getElementById("barraaceptacion").style.display="block";
+            }
+            function PonerCookie(){
+                setCookie('tiendaaviso','1',365);
+                document.getElementById("barraaceptacion").style.display="none";
+            }
+            </script>
+            <!--//FIN BLOQUE COOKIES-->
+
+
+
+
         <div id="ing"><h3>Un poco de mi</h3></div>
         
         <div id="crp1"><p>No hay mucho que saber, me llamo <strong>Manuel</strong>, tengo 21 años de edad y desde pequeño tuve una obsesion con la tecnología y la programacion, me gusta mucho aprender cosas nuevas y aplicar lo conocido en el desarrollo práctico.<p>
@@ -72,7 +132,7 @@
         
     </div>
     
-<footer class="fot"> copyright © JDevelopes Studio all rights reserved | Manuel Herrera </footer>
+<footer class="fot"> copyright © 2020 JDevelopes Studio all rights reserved | Manuel Herrera </footer>
         <a class="fto" href="https://twitter.com/jdeveloper_s"><img class="jd" src="sesion/rocket.png" width="50" height="50"></a>
 
 </body>
