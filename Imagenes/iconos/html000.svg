@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" xml:space="preserve">
+<rect x="144" y="440" style="fill:#8C95A4;" width="208" height="48"/>
+<rect x="144" y="424" style="fill:#798699;" width="208" height="32"/>
+<path style="fill:#39C3FC;" d="M456,88h-48H88H40c-17.672,0-32,14.328-32,32v288c0,17.672,14.328,32,32,32h416
+	c17.672,0,32-14.328,32-32V120C488,102.328,473.672,88,456,88z"/>
+<rect x="376" y="88" style="fill:#148CE0;" width="48" height="280"/>
+<path style="fill:#AFB8C9;" d="M456,440H40c-17.672,0-32-14.328-32-32v-16h480v16C488,425.672,473.672,440,456,440z"/>
+<rect x="8" y="376" style="fill:#148CE0;" width="480" height="16"/>
+<polygon style="fill:#ECECEC;" points="88,8 88,360 408,360 408,304 408,200 408,8 "/>
+<polygon style="fill:#B6C1CE;" points="408,360 408,304 408,200 408,8 312,8 136,360 "/>
+<polygon style="fill:#FB5968;" points="88,8 88,72 408,72 408,61.816 408,42.912 408,8 "/>
+<rect x="136" y="104" style="fill:#FCD770;" width="224" height="128"/>
+<polygon style="fill:#FFC729;" points="200,232 360,232 360,104 264,104 "/>
+<g>
+	<polygon style="fill:#FB5968;" points="216,200 216,136 280,168 	"/>
+	<polygon style="fill:#FB5968;" points="456,272 408,224 432,200 344,200 344,288 368,264 416,312 	"/>
+</g>
+<polygon style="fill:#CD2C5A;" points="408,72 408,61.816 408,42.912 408,8 312,8 280,72 "/>
+<path d="M456,80h-40V0H80v80H40C17.944,80,0,97.944,0,120v288c0,22.056,17.944,40,40,40h96v32h-32v16h288v-16h-32v-32h96
+	c22.056,0,40-17.944,40-40V120C496,97.944,478.056,80,456,80z M368,252.688l-16,16V208h60.688l-16,16l48,48L416,300.688L368,252.688
+	z M336,192v32H144V112h208v80H336z M368,192V96H128v144h208v67.312l32-32l32,32V352H96V80h304v112H368z M400,16v48H96V16H400z
+	 M40,96h40v272h336v-44.688L467.312,272l-48-48l32-32H416V96h40c13.232,0,24,10.768,24,24v264H16V120C16,106.768,26.768,96,40,96z
+	 M344,480H152v-32h192V480z M456,432H40c-13.232,0-24-10.768-24-24v-8h464v8C480,421.232,469.232,432,456,432z"/>
+<path d="M208,212.944L297.888,168L208,123.056V212.944z M224,148.944L262.112,168L224,187.056V148.944z"/>
+<rect x="128" y="256" width="192" height="16"/>
+<rect x="128" y="320" width="160" height="16"/>
+<rect x="128" y="288" width="88" height="16"/>
+<rect x="232" y="288" width="88" height="16"/>
+<rect x="112" y="32" width="16" height="16"/>
+<rect x="144" y="32" width="16" height="16"/>
+<rect x="176" y="32" width="16" height="16"/>
+<rect x="304" y="320" width="16" height="16"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
