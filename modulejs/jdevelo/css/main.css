@@ -1,0 +1,71 @@
+/* copyright © 2020 - 2020 JDevelopers®*/
+
+
+
+body {
+    font-family: 'Balsamiq Sans', cursive;
+    background-image: url(https://media.gettyimages.com/videos/4k-gradient-colorful-binary-code-with-lots-of-the-number-ones-glowing-video-id1147327799?s=640x640);
+    color: white;
+}
+
+div.dib { /*Contenedor de textos */
+    font-size: 19px;
+  text-align: center, justify;
+  margin-left:  50px;
+  margin-right: 50px;;
+  padding: 20px;
+}
+
+a { /*Enlaces*/
+    text-decoration: none;
+    color: fuchsia;
+}
+
+
+/* Id # tags only part */
+
+#hp {
+    font-size: 32px;
+    text-align: center;
+    display: block;
+    margin: 19px;
+    padding: 2%;
+}
+
+#hp:hover {
+    color: red;
+
+
+}
+
+#trd {
+    margin-right: 40px;
+    margin-left: 40px;
+    padding: 19px;
+    font-size: 22px;
+}
+
+#lista {
+    margin-left: 21px;
+}
+
+#lista:hover {
+   
+    color: red; 
+}
+
+#ghy {
+    margin-left: 50px ;
+    color:whitesmoke;
+}
+
+#imgo {
+    margin-left: 610px;
+    border-radius: 380px;
+    
+}
+
+#imgo:hover {
+    animation: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+

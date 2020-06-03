@@ -1,0 +1,79 @@
+body {
+    font-family: 'Balsamiq Sans', cursive;
+    background-image: url(../imagenes/rosa2.png);
+
+    margin: 50px;
+}
+
+/* Inicio de # */
+
+#fot {
+    text-decoration: none;
+    color:fuchsia;
+}
+
+#fot:hover {
+    font-size: 19px;
+    color: hotpink;
+}
+
+strong.pol  {
+    
+    margin: 20px;
+    padding: 40px;
+    font-size: 21px;
+}
+/*Enlaces*/
+#botp {
+    text-decoration: none;
+    color: rgb(255, 250, 250);
+    text-align: center;
+}
+
+#bt2 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+/*Fin de enlaces id */
+
+/*botones */ 
+
+#bgt {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 14px;
+    padding: 4px;
+    
+}
+
+#bgh {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 4px;
+}
+
+/*Fin de botones */
+
+#foty {
+    text-align: center;
+}
+
+#trnm {
+    font-size: 26px;
+    text-align: center;
+    margin: 2px;
+}
+#p {
+    text-align: end;
+}
+
+div {
+    text-align: center, justify;
+    padding: 5px;
+    margin: 15px;
+    
+}
+
+
