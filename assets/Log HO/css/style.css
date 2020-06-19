@@ -1,0 +1,60 @@
+body {
+    font-size: 19px;
+    background-image: url(https://66.media.tumblr.com/5fe0a0a064adc096e17b50c8abc8fb0f/tumblr_oxbitrJPTz1w5n1g1o1_1280.png);
+    text-align: justify;
+    color: yellow;
+}
+
+h2.cab {
+    text-align: center ;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#L1 {
+    text-align: center;
+    color: rgb(255, 0, 234);
+}
+
+p.p1 {
+    margin: 50px;
+    margin-left: 85px;
+}
+
+p.p1:hover {
+    font-size: 25px;
+    color: yellow;
+}
+
+h3.syp {
+    margin-left: 90px;
+
+    
+}
+
+h3.syp:hover {
+    font-size: 25px;
+    color: rgb(252, 248, 16);
+}
+
+h2.cab {
+    margin-left: 85px;
+    
+}
+
+#enlace:hover {
+    Color: red;
+    font-size: 21px;
+}
+
+#bto:hover{
+    color: red;
+    font-size: 21px;
+}
+
+#ha {
+    text-align: center;
+}

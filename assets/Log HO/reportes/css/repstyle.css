@@ -1,0 +1,37 @@
+body {
+    color: white;
+    background-image: url(https://66.media.tumblr.com/5fe0a0a064adc096e17b50c8abc8fb0f/tumblr_oxbitrJPTz1w5n1g1o1_1280.png);
+}
+
+a {
+    text-decoration: none;
+    color: wheat;
+}
+
+a:hover {
+    color: yellow;
+    font-size: 25px;
+}
+
+#htres {
+   
+    margin-left: 43%;
+}
+
+#lista {
+    text-align: center;
+}
+
+#uli {
+    text-align: center;
+}
+
+#bto:hover {
+    color: red;
+    font-size: 21px;
+}
+
+footer {
+    text-align: end;
+    text-align: center;
+}

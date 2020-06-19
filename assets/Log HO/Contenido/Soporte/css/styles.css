@@ -1,0 +1,51 @@
+body {
+    background-color: rosybrown;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 250px;
+}
+
+#ol {
+    margin: 68px;
+    
+}
+
+#ido {
+    text-align: center;
+}
+
+#si {
+    text-align: center;
+}
+
+#ol {
+    font-size: 20px;
+    text-align: center;
+}
+
+#ol:hover {
+    color: red;
+    font-size: 22px;
+}
+
+#do {
+    margin-left: 46%;
+}
+
+#fix {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#bty {
+    background-color: salmon;
+
+}
+
+#bty:hover {
+    font-size: 21px;
+
+}
