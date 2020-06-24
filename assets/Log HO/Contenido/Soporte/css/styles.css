@@ -29,11 +29,13 @@ body {
 }
 
 #do {
-    margin-left: 46%;
+    
+    text-align: center;
 }
 
 #fix {
     text-align: center;
+    margin-left: 3.2%;
 }
 
 a {
