@@ -1,5 +1,5 @@
 # Reporte diario
-**Fecha de reporte** 22 de junio de 2020
+**Fecha de reporte** 26 de junio de 2020
 
 ## Hermandad Oscura
 
@@ -24,30 +24,25 @@
             * `◘` (Muestra categoría servidor [Cambios internos])
             * `∟` (Muestra comandos (se le agrega +))
 
+
 ### Listado de cambios 
 
     [ `Inicio de cámbios`] {
-        +`◘` [Servidor] {
-            - Restablecimiento de canal #comandos
+        + `◘` [Servidor] {
+            + *Mantenimiento del servidor completado*
         }
 
-        +#comandos {
-            // Canal en mantenimiento preventivo {
-                     [Esto significa que el canal está siendo monitoreado para establecer los comandos de *Leveling* del Bot Arcane]{
-                         [El mantenimiento preventivo no requiere de un cierre de canal por parte de Dyno]
+        + #mipana {
+            + Mantenimiento preventivo finalizado {
 
-                         **Finalización programada para dentro de:** *2 dias 14 horas*
-                }
+                - Permisos everyone = lectura => `Denegados`
+                - Permisos everyone = conectar => `Denegados`
+                + Permisos everyone = gestión => `Denegados`
             }
-        }
 
-        +/ Bot Arcane {
-            + Se estableció la experiencia obtenida en 0.38% en canales permitidos 
-            + Cambios en canaless permitidos {
-                - Permisos de #comandos para experiencia = Denegados [ Hasta finalización de mantenimiento preventivo del canal]
-            }
+            **La revisión de permisos y canales se completó satisfactoriamente**
+            *No se encontraron fallas*
         }
     }
-
-#### Fin de reporte diario del dia 24 de junio de 2020
+#### Fin de reporte diario del dia 26 de junio de 2020
 [ @staff] `Cualquier duda contactar con`

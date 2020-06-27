@@ -1,10 +1,9 @@
 # Reporte diario
-**Fecha de reporte** 22 de junio de 2020
-
+**Fecha de reporte** 22de unio de 2020
 ## Hermandad Oscura
 
 [Este reporte contiene información que describe las acciones realizadas en el servidor con el motivo de llevar un control de las configuraciones y cambios dentro del servidor]
-[A continuación se muestra una lista de los terminis que pueden causar confusión, esto con motivo de que el informe sea los mas detallado posible y todos puedan conocer lo sucedido]
+[A continuación se muestra una lista de los témino que pueden causar confusión, esto con motivo de que el informe sea los mas detallado posible y todos puedan conocer lo sucedido]
 
 ### Cambios realizados
 
@@ -27,27 +26,20 @@
 ### Listado de cambios 
 
     [ `Inicio de cámbios`] {
-        +`◘` [Servidor] {
-            - Restablecimiento de canal #comandos
-        }
-
-        +#comandos {
-            // Canal en mantenimiento preventivo {
-                     [Esto significa que el canal está siendo monitoreado para establecer los comandos de *Leveling* del Bot Arcane]{
-                         [El mantenimiento preventivo no requiere de un cierre de canal por parte de Dyno]
-
-                         **Finalización programada para dentro de:** *2 dias 14 horas*
-                }
-            }
-        }
+        +`◘` Servidor {
+            +Cambios en sistema = leveling 0.41,2%
+            [Inestable]
+        };
 
         +/ Bot Arcane {
-            + Se estableció la experiencia obtenida en 0.38% en canales permitidos 
-            + Cambios en canaless permitidos {
-                - Permisos de #comandos para experiencia = Denegados [ Hasta finalización de mantenimiento preventivo del canal]
-            }
-        }
-    }
+            [Mantenimiento de leveling]
 
-#### Fin de reporte diario del dia 24 de junio de 2020
+        };
+
+        +#comandos {
+            [Leveling en mantenimiento, canal en mantenimiento preventivo]
+        };
+
+
+    #### Fin de reporte diario del dia 24 de junio de 2020
 [ @staff] `Cualquier duda contactar con`
